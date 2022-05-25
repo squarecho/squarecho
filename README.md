@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello World 👋
+
+## I'm a Game Mathematician & Developer
+
+Website https://squarecho.github.io/  
+Math Note https://hackmd.io/@squarecho/home  
+Linkedin https://www.linkedin.com/in/squarecho/  
+
 
 <!--
 **squarecho/squarecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
